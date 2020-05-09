@@ -1,1 +1,3 @@
-[{"ID":"1","PNAME":"TitanCoral","GNAME":"Red/Blue Lava Lamp","COST":"31","MSRP":"29","QOH":"10","QOB":"0","DESC":"It is one of the largest lamps on the market and can set the vibe for any room no mater how large","BRAND":"NIGHT GLOW"}]
+[{"ID":"1","PNAME":"TitanCoral","GNAME":"Red/Blue Lava Lamp","COST":"31","MSRP":"29","QOH":"10","QOB":"0","DESC":"It is one of the largest lamps on the market and can set the vibe for any room no mater how large","BRAND":"NIGHT GLOW"}
+ {"ID":"2","PNAME":"TitanRaindbow","GNAME":"Rainbow Lava Lamp","COST":"35","MSRP":"30","QOH":"0","QOB":"12","DESC":"It is one of the largest lamps on the market and can set the vibe for any room no mater how large","BRAND":"NIGHT GLOW"}
+]
