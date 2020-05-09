@@ -12,5 +12,5 @@
 {"ID":"4","PNAME":"Rush","GNAME":"Orange soda","COST":"5","MSRP":"4","QOH":"43","QOB":"0","DESC":"this oragne soda is perfect for the long gaming sessions","BRAND":"Gamer Juice"},
 {"ID":"4","PNAME":"Cold Colatreal","GNAME":"Cherry cola","COST":"5","MSRP":"4","QOH":"125","QOB":"12","DESC":"the soda for when you are in those intense gammign moments","BRAND":"Gamer Juice"},
 {"ID":"4","PNAME":"The chug jug","GNAME":"Large cola bottle","COST":"9","MSRP":"8","QOH":"14","QOB":"0","DESC":"The chug jug for when you feel the heat of the pressure","BRAND":"Gamer Juice"},
-{"ID":"4","PNAME":"GG juice","GNAME":"Grape soda","COST":"5","MSRP":"4","QOH":"35","QOB":"0","DESC":"Crakc open a fresh can of gg juice after a long day of wining","BRAND":"Gamer Juice"},
+{"ID":"4","PNAME":"GG juice","GNAME":"Grape soda","COST":"5","MSRP":"4","QOH":"35","QOB":"0","DESC":"Crakc open a fresh can of gg juice after a long day of wining","BRAND":"Gamer Juice"}
 ]
