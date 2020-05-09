@@ -1,0 +1,16 @@
+[{"ID":"1","PNAME":"Titan Coral","GNAME":"Red/Blue Lava Lamp","COST":"31","MSRP":"29","QOH":"10","QOB":"0","DESC":"It is one of the largest lamps on the market and can set the vibe for any room no mater how large","BRAND":"NIGHT GLOW"},
+{"ID":"2","PNAME":"Titan Raindbow","GNAME":"Rainbow Lava Lamp","COST":"35","MSRP":"30","QOH":"0","QOB":"12","DESC":"It is one of the largest lamps on the market and can set the vibe for any room no mater how large","BRAND":"NIGHT GLOW"},
+{"ID":"3","PNAME":"Titan Deep Space","GNAME":"Purple/Blue Lava Lamp","COST":"31","MSRP":"29","QOH":"0","QOB":"4","DESC":"It is one of the largest lamps on the market and can set the vibe for a space adventure no matter how large","BRAND":"NIGHT GLOW"},
+{"ID":"4","PNAME":"Streamline Martian","GNAME":"Green/Yellow Lava Lamp","COST":"26","MSRP":"25","QOH":"16","QOB":"0","DESC":"This tiny lava lamp can fit in small spaces but dont let its size fool you it can still set the vibe ","BRAND":"NIGHT GLOW"},
+{"ID":"5","PNAME":"Streamline Magma","GNAME":"Red/Orange  Lava Lamp","COST":"26","MSRP":"25","QOH":"5","QOB":"3","DESC":"This tiny lava lamp can fit in small spaces but dont let its size fool you it can still set the vibe","BRAND":"NIGHT GLOW"},
+{"ID":"4","PNAME":"Razor Mk2","GNAME":"Dual Speaker stero system","COST":"126","MSRP":"120","QOH":"25","QOB":"1","DESC":"This dual speaker system allows for you to have sound coming from multiple directions","BRAND":"Stero Heart"},
+{"ID":"4","PNAME":"Vortex","GNAME":"Three speakers with a subwoofer","COST":"199","MSRP":"170","QOH":"12","QOB":"0","DESC":"The vortex comes with 3 speakers to set around your room and a subwoofer to back it up ","BRAND":"Stero Heart"},
+{"ID":"4","PNAME":"Echo Max","GNAME":" Single loud speaker","COST":"79","MSRP":"75","QOH":"5","QOB":"2","DESC":"This lone speaker may not be big but it makes up for it in how loud it is","BRAND":"Stero Heart"},
+{"ID":"4","PNAME":"Vibe Ultra","GNAME":"Small portipble speaker","COST":"59","MSRP":"50","QOH":"2","QOB":"3","DESC":"this portible speaker has the sound of a home setup on the go","BRAND":"Stero Heart"},
+{"ID":"4","PNAME":"Vibe Mk3","GNAME":"Waterproof small speaker","COST":"69","MSRP":"69","QOH":"12","QOB":"0","DESC":"the new vibe mk2 is better than ever and is now water proof","BRAND":"Stero Heart"},
+{"ID":"4","PNAME":"LiveWire","GNAME":"Lemon soda","COST":"5","MSRP":"4","QOH":"26","QOB":"1","DESC":"this lemom soda is perfect foe those stressful gaming sessions","BRAND":"Gamer Juice"},
+{"ID":"4","PNAME":"Rush","GNAME":"Orange soda","COST":"5","MSRP":"4","QOH":"43","QOB":"0","DESC":"this oragne soda is perfect for the long gaming sessions","BRAND":"Gamer Juice"},
+{"ID":"4","PNAME":"Cold Colatreal","GNAME":"Cherry cola","COST":"5","MSRP":"4","QOH":"125","QOB":"12","DESC":"the soda for when you are in those intense gammign moments","BRAND":"Gamer Juice"},
+{"ID":"4","PNAME":"The chug jug","GNAME":"Large cola bottle","COST":"9","MSRP":"8","QOH":"14","QOB":"0","DESC":"The chug jug for when you feel the heat of the pressure","BRAND":"Gamer Juice"},
+{"ID":"4","PNAME":"GG juice","GNAME":"Grape soda","COST":"5","MSRP":"4","QOH":"35","QOB":"0","DESC":"Crakc open a fresh can of gg juice after a long day of wining","BRAND":"Gamer Juice"}
+]
